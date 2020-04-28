@@ -1,0 +1,19 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "This is a directory that I made when I was learning Full Stack Web Development on Coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucifer123A/TestGit.git"
+  },
+  "author": "Lokesh Dulani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucifer123A/TestGit/issues"
+  },
+  "homepage": "https://github.com/lucifer123A/TestGit#readme"
+}
